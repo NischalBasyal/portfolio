@@ -4,6 +4,6 @@ This website is my portfolio where I showcase my skill and place where you conta
 
 ## Technologies used in this project:
 
--typescript
--Nextjs
--Chakra-ui and mui
+- Typescript
+- Nextjs
+- Chakra-ui and mui
