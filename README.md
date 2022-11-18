@@ -1,6 +1,6 @@
 # Nischal's Portfolio
 
-This is my portfoli website where I showcase my skill and place where you contact me!
+This is my portfolio website where I showcase my skill and place a where you contact me!
 
 ## Technologies used in this project:
 
