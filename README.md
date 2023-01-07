@@ -9,3 +9,4 @@ This is my portfolio website where I showcase my skill and place a where you con
 - Chakra-ui
 - mui
 - firebase
+- tailwind
