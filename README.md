@@ -6,4 +6,7 @@ This is my portfolio website where I showcase my skill and place a where you con
 
 - Typescript
 - Nextjs
-- Chakra-ui and mui
+- Chakra-ui
+- mui
+- firebase
+- tailwind
