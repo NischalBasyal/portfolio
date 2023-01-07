@@ -8,3 +8,4 @@ This is my portfolio website where I showcase my skill and place a where you con
 - Nextjs
 - Chakra-ui
 - mui
+- firebase
