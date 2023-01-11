@@ -1,4 +1,6 @@
 # Nischal Basyal's Portfolio
 
 ## Tools Used:
-- Nextjs
+- Nextjs [https://nextjs.com]
+- GSAP
+- scrollmagic
